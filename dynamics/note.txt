@@ -1,0 +1,14 @@
+First data: default minimization in distance calculation
+trotsum.mx
+trotsumsub.mx
+
+
+Second data: randomsearch minimization in distance calculation
+trotsum2.mx
+trotsumsub2.mx
+
+
+Somehow, randomsearch method works well in calculating distance to id matrix.
+That can also be caused by precision in convergence, local minima traps.
+
+
